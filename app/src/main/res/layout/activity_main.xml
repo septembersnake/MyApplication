@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:singleLine="true"
         android:text="@string/taiwanoil_fpcc"
-        android:textSize="24sp"
+        android:textSize="60sp"
         android:textColor="@color/colorBlack"
         app:layout_constrainedWidth="true"
         app:layout_constraintBottom_toBottomOf="parent"
